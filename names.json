@@ -1,10 +1,10 @@
 {
     "patreons": {
-        "Patreons": [
+        "Patreonss": [
 "G0TTERDAMMERUNG",
 ""
         ],
-        "BOOSTERS": [
+        "Boosters": [
 "Mikro",
 "UPR",
 "Sykororo",
@@ -29,7 +29,5 @@
         ]
     },
     "dj": {
-        "": [
-"", 
     }
 }
