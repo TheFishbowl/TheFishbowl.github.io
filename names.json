@@ -1,11 +1,22 @@
 {
     "patreons": {
-        "Guppies": [
-"",
+        "Patreons": [
+"G0TTERDAMMERUNG",
 ""
         ],
-        "Goldfish": [
-"G0TTERDAMMERUNG",
+        "BOOSTERS": [
+"Mikro",
+"UPR",
+"Sykororo",
+"Rach",
+"Straight Busta",
+"Anton123pg",
+"Kepreee",
+"Beni",
+"Moonaloona",
+"Lazyicon",
+"DJ_Level_3",
+"Spyy",
 ""
         ],
         "Great White": [
@@ -18,5 +29,7 @@
         ]
     },
     "dj": {
+        "Test1": [
+"Test2", 
     }
 }
